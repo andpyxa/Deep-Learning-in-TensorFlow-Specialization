@@ -17,6 +17,7 @@ In this Specialization, you will build and train neural network architectures wi
 ## Useful Links
 
 Youtube FULL explanation: https://www.youtube.com/playlist?list=PLMWIyphKbqfzb3lLONl9HLsv5vbFsYHdh
+
 Support FREE content: https://www.buymeacoffee.com/eMasterClass
 
 ## License
