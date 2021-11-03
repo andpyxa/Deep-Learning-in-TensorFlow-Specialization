@@ -12,10 +12,13 @@ In this Specialization, you will build and train neural network architectures wi
 3. Neural Networks in TensorFlow - Advanced Techniques
 4. Convolutional Neural Networks in TensorFlow
 5. Recurrent Neural Networks in TensorFlow
-   Hands-on Project - LSTM model for Image Classification
 6. Keras Functional API
-                      Hands-on Project - ResNet model for Image Classification
 
----------------------------------------------------------------------------------------------------------------------------
+## Useful Links
+
 Youtube FULL explanation: https://www.youtube.com/playlist?list=PLMWIyphKbqfzb3lLONl9HLsv5vbFsYHdh
 Support FREE content: https://www.buymeacoffee.com/eMasterClass
+
+## License
+
+The Deep Learning in TensorFlow Specialization is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
