@@ -1,6 +1,6 @@
 # Deep-Learning-in-TensorFlow-Specialization
 
-About this Course
+## About this Course
 This Deep Learning in TensorFlow Specialization is a foundational program that will help you understand the principles and Python code of Machine Learning and Deep Learning and prepare you to participate in the development of leading-edge AI and data scientist technology.
 
 In this Specialization, you will build and train neural network architectures with some hands-on project, such as Vanilla Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and learn the advance techniques on how to make them better with strategies.
