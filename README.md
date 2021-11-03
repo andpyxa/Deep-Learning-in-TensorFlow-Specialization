@@ -7,8 +7,11 @@ In this Specialization, you will build and train neural network architectures wi
 
 What you will learn from this course:
    Course 1   Numpy Basics
+   
    Course 2   Neural Networks in TensorFlow
-                      Hands-on Project - Image Classification
+   
+              Hands-on Project - Image Classification
+              
    Course 3   Neural Networks in TensorFlow - Advanced Techniques
    Course 4   Convolutional Neural Networks in TensorFlow
    Course 5   Recurrent Neural Networks in TensorFlow
