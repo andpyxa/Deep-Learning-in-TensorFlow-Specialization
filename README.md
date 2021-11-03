@@ -5,7 +5,7 @@ This Deep Learning in TensorFlow Specialization is a foundational program that w
 
 In this Specialization, you will build and train neural network architectures with some hands-on project, such as Vanilla Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and learn the advance techniques on how to make them better with strategies.
 
-What you will learn from this course:
+## What you will learn from this course:
    Course 1   Numpy Basics
    
    Course 2   Neural Networks in TensorFlow
